@@ -1,5 +1,5 @@
 # EasyRide-android-app
-EasyRide is an Android mobile application developed with Java and Room Database. The application provides user authentication and local data management functionalities through a clean mobile interface.
+EasyRide is an Android mobile application developed with Java and Room Database (SQLite). The application provides user authentication and local data management functionalities through a clean mobile interface.
 
 ---
 
@@ -16,8 +16,7 @@ EasyRide is an Android mobile application developed with Java and Room Database.
 ## Tech Stack
 - Java
 - Android Studio
-- Room Database
-- SQLite
+- Room Database (SQLite)
 - Android Navigation Components
 - Material Design
 
@@ -27,7 +26,7 @@ EasyRide is an Android mobile application developed with Java and Room Database.
 The application follows a layered architecture:
 - DAO Layer
 - Repository Layer
-- Room Database
+- Room Database (SQLite)
 - UI Fragments
 - Navigation Components
 
